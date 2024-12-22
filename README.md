@@ -15,6 +15,9 @@ If you'd like to model your own portfolio after mine, feel free. This app uses t
 ## Tests
 No tests necessary. Note that since this is a static site without a backend, if there are components such as feedback forms, they are for demo only.
 
+## Thanks
+Thank you to [LogosAndTypes.com](LogosAndTypes.com) for the .svg of the Netlify logo.
+
 ## Contact
 * GitHub page: [IsakTL](https://github.com/IsakTL)
 * Email: [isaktlarsson99@gmail.com](mailto:isaktlarsson99@gmail.com)
