@@ -1,10 +1,14 @@
 # Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Currently deployed:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e237203-c199-46d9-b3d6-026601aefb1d/deploy-status)][1]
+
 This is a showcase of projects I've created. It uses a vite frontend, deployed via Netlify as a static site.
 
 ## Instructions
-No installation necessary. Click on [this link](#) to access it.
+No installation necessary. Site deployed at [https://isakt.netlify.app][1].
 
 ## Usage
 Click around the site to see why I've been an asset to every former employer.
@@ -21,7 +25,9 @@ Thank you to [LogosAndTypes.com](LogosAndTypes.com) for the .svg of the Netlify 
 ## Contact
 * GitHub page: [IsakTL](https://github.com/IsakTL)
 * Email: [isaktlarsson99@gmail.com](mailto:isaktlarsson99@gmail.com)
-* LinkedIn: 
+* LinkedIn: [IsakTL](https://www.linkedin.com/in/isaktl/)
 
 ## License
 This project uses the MIT license. For more information, visit: [MIT License](https://spdx.org/licenses/MIT.html)
+
+[1]: https://isakt.netlify.app
