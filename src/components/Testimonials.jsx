@@ -1,4 +1,4 @@
-//Insert from Mongodb of feedback at random
+//Insert from Mongodb of feedback at random; not yet implemented
 export default function Testimonials() {
     return (
         <>
@@ -7,9 +7,6 @@ export default function Testimonials() {
             </h3>
             <p>
                 "Isak was very genuine, informed and patient with my questions."
-            </p>
-            <p>
-                "very helpful and efficient"
             </p>
             <p>
                 "I thought Isak was great. Polite and knowledgeable and he listened to what I had to say, even though as an old guy I ramble on annoyingly. I was impressed that he paid enough attention to actually respond thoughtfully to my ramblings. He is also clearly if quietly empathetic, which must make many of his customers feel welcomed--it did me."
@@ -58,6 +55,9 @@ export default function Testimonials() {
             </p>
             <p>
                 "very helpful and very patience with me."
+            </p>
+            <p>
+                "very helpful and efficient"
             </p>
             <p>
                 "He was very helpful with everything I asked. He even explained [company] things to my non-[company] user parents. So 10/10."
