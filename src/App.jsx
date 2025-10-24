@@ -13,12 +13,6 @@ function App() {
       <Header />
       <Testimonials />
       <Footer />
-      {/* Below is default Vite file code */}
-      {/* <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-      </div> */}
     </>
   )
 }

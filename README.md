@@ -11,7 +11,7 @@ This is a showcase of projects I've created. It uses a vite frontend, deployed v
 No installation necessary. Site deployed at [https://isakt.netlify.app][1].
 
 ## Usage
-Click around the site to see why I've been an asset to every former employer.
+Scroll the site to see why I've been an asset to every former employer.
 
 ## Contributing
 If you'd like to model your own portfolio after mine, feel free. This app uses the MIT license. Fork this repo or download it and make your own.
