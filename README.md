@@ -5,7 +5,7 @@ Currently deployed:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e237203-c199-46d9-b3d6-026601aefb1d/deploy-status)][1]
 
-This is a showcase of projects I've created. It uses a vite frontend, deployed via Netlify as a static site.
+This is a showcase of customer feedback. It uses a vite frontend, deployed via Netlify as a static site.
 
 ## Instructions
 No installation necessary. Site deployed at [https://isakt.netlify.app][1].
@@ -17,7 +17,7 @@ Scroll the site to see why I've been an asset to every former employer.
 If you'd like to model your own portfolio after mine, feel free. This app uses the MIT license. Fork this repo or download it and make your own.
 
 ## Tests
-No tests necessary. Note that since this is a static site without a backend, if there are components such as feedback forms, they are for demo only.
+No tests necessary.
 
 ## Thanks
 Thank you to [LogosAndTypes.com](LogosAndTypes.com) for the .svg of the Netlify logo.
